@@ -1,7 +1,7 @@
 public class Main {
+    /* The code below will print the words Hello World
+    to the screen, and it is amazing */
     public static void main(String[] args) {
-        System.out.println(3);
-        System.out.println(358);
-        System.out.println(50000);
+        System.out.println("Hello World"); // This is a comment
     }
   }
