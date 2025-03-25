@@ -1,7 +1,18 @@
+
 public class Main {
-    /* The code below will print the words Hello World
-    to the screen, and it is amazing */
     public static void main(String[] args) {
-        System.out.println("Hello World"); // This is a comment
+        // Student data
+        String studentName = "John Doe";
+        int studentID = 15;
+        int studentAge = 23;
+        float studentFee = 75.25f;
+        char studentGrade = 'B';
+
+        // Print variables
+        System.out.println("Student name: " + studentName);
+        System.out.println("Student id: " + studentID);
+        System.out.println("Student age: " + studentAge);
+        System.out.println("Student fee: " + studentFee);
+        System.out.println("Student grade: " + studentGrade);
     }
-  }
+}
